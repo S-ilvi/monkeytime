@@ -52,7 +52,8 @@ However, you can also play for fun, without counting points.
 ## Variants
 
 ### Drunk Monkeys
-You are throwing a crazy party with your monkey buddies? Might as well use this game to get super wasted. In this case you play individually. Each level everyone summates all their won points and multiplies them with the number of the respective level. This is the number of shots/slurps you get to distribute among the other players (or you can drink them yourself, you little maso-monkey). 
+You are throwing a crazy party with your monkey buddies? Might as well use this game to get super wasted. In this case you play individually. Each level everyone summates all their won points and multiplies them with the number of the respective level. This is the number of shots/slurps you get to distribute among the other players (or you can drink them yourself, you little maso-monkey).
+Example: You guessed 3 words in Level 3. Multiply 3 points with 3 (level). You got 9 shots/slurps to hand out.
 
 Non-drinking monkeys can join the fun and answer an embarrassing question instead for example.
 
